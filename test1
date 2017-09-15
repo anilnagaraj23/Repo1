@@ -2,6 +2,7 @@ Ths is anil
 Branching
 <<<<<<< HEAD
 rebase
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 1
@@ -9,3 +10,7 @@ rebase
 >>>>>>> parent of a13b56a... added
 
 >>>>>>> Stashed changes
+=======
+1
+
+>>>>>>> master
